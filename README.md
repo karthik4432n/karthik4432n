@@ -127,33 +127,7 @@ Designed a responsive, visually engaging web interface with custom CSS animation
 ---
 
 <!-- ============================================================
-     7. PROFILE SUMMARY
-============================================================ -->
-## 📈 Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthik4432n&theme=tokyonight" width="100%"/>
-
-</div>
-
----
-
-<!-- ============================================================
-     8. CONTRIBUTION SNAKE
-============================================================ -->
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/karthik4432n/karthik4432n/output/github-contribution-grid-snake.svg" width="100%"/>
-
-</div>
-
----
-
-<!-- ============================================================
-     9. ACHIEVEMENTS & CERTIFICATIONS
+     7. ACHIEVEMENTS & CERTIFICATIONS
 ============================================================ -->
 ## 🏆 Achievements & Certifications
 
@@ -170,7 +144,7 @@ Designed a responsive, visually engaging web interface with custom CSS animation
 ---
 
 <!-- ============================================================
-     10. CURRENTLY LEARNING
+     8. CURRENTLY LEARNING
 ============================================================ -->
 ## 📚 Currently Learning
 
@@ -182,7 +156,7 @@ Designed a responsive, visually engaging web interface with custom CSS animation
 ---
 
 <!-- ============================================================
-     11. CONNECT WITH ME
+     9. CONNECT WITH ME
 ============================================================ -->
 ## 🤝 Connect With Me
 
