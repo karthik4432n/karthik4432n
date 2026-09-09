@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Karthik+Nallakula;Full+Stack+Developer;UI%2FUX+Designer;Competitive+Programmer;150%2B+LeetCode+Problems+%E2%80%A2+2%E2%98%85+CodeChef" />
 
 ### Full Stack Developer • UI/UX Designer • Competitive Coder • Problem Solver
-📍 Andhra Pradesh, India &nbsp;|&nbsp; 🎓 B.Tech CSE, Aditya College of Engineering & Technology (CGPA: 7.48)
+📍 Andhra Pradesh, India &nbsp;|&nbsp; 🎓 B.Tech CSE, Aditya College of Engineering & Technology 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthiknallakula)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthiknallakula2007@gmail.com)
@@ -25,7 +25,7 @@
 ============================================================ -->
 ## 🧠 About Me
 
-🎓 2nd-year **B.Tech in Computer Science & Engineering (2024–2028)** at Aditya College of Engineering & Technology, Surampalem — CGPA 7.48/10
+🎓 2nd-year **B.Tech in Computer Science & Engineering (2024–2028)** at Aditya College of Engineering & Technology, Surampalem 
 
 💼 Designer on **SkillStackAI** & Full-Stack Lead on **Code Duel Arena** and AI-Powered Academic Platforms
 
